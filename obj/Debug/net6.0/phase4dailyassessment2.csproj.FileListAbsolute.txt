@@ -1,0 +1,14 @@
+C:\Users\sss\source\repos\phase4dailyassessment2\phase4dailyassessment2\bin\Debug\net6.0\phase4dailyassessment2.exe
+C:\Users\sss\source\repos\phase4dailyassessment2\phase4dailyassessment2\bin\Debug\net6.0\phase4dailyassessment2.deps.json
+C:\Users\sss\source\repos\phase4dailyassessment2\phase4dailyassessment2\bin\Debug\net6.0\phase4dailyassessment2.runtimeconfig.json
+C:\Users\sss\source\repos\phase4dailyassessment2\phase4dailyassessment2\bin\Debug\net6.0\phase4dailyassessment2.dll
+C:\Users\sss\source\repos\phase4dailyassessment2\phase4dailyassessment2\bin\Debug\net6.0\phase4dailyassessment2.pdb
+C:\Users\sss\source\repos\phase4dailyassessment2\phase4dailyassessment2\obj\Debug\net6.0\phase4dailyassessment2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sss\source\repos\phase4dailyassessment2\phase4dailyassessment2\obj\Debug\net6.0\phase4dailyassessment2.AssemblyInfoInputs.cache
+C:\Users\sss\source\repos\phase4dailyassessment2\phase4dailyassessment2\obj\Debug\net6.0\phase4dailyassessment2.AssemblyInfo.cs
+C:\Users\sss\source\repos\phase4dailyassessment2\phase4dailyassessment2\obj\Debug\net6.0\phase4dailyassessment2.csproj.CoreCompileInputs.cache
+C:\Users\sss\source\repos\phase4dailyassessment2\phase4dailyassessment2\obj\Debug\net6.0\phase4dailyassessment2.dll
+C:\Users\sss\source\repos\phase4dailyassessment2\phase4dailyassessment2\obj\Debug\net6.0\refint\phase4dailyassessment2.dll
+C:\Users\sss\source\repos\phase4dailyassessment2\phase4dailyassessment2\obj\Debug\net6.0\phase4dailyassessment2.pdb
+C:\Users\sss\source\repos\phase4dailyassessment2\phase4dailyassessment2\obj\Debug\net6.0\phase4dailyassessment2.genruntimeconfig.cache
+C:\Users\sss\source\repos\phase4dailyassessment2\phase4dailyassessment2\obj\Debug\net6.0\ref\phase4dailyassessment2.dll
